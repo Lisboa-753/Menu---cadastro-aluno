@@ -2,6 +2,7 @@
 
   Este projeto foi desenvolvido em Python com o objetivo de criar um menu interativo para gerenciar informações de alunos e disciplinas em um banco de dados SQL e MongoDB (NoSQL). O sistema oferece diversas funcionalidades para cadastrar, consultar, alterar e remover alunos e disciplinas, além de permitir a vinculação entre eles. Ele também registra logs de operações no MongoDB, facilitando o acompanhamento das atividades realizadas.
 
+
 **Funcionalidades**
 
 O sistema possui um menu interativo que permite as seguintes operações:
@@ -32,6 +33,7 @@ Visualizar Logs: Exibe os logs registrados no MongoDB sobre as operações reali
 
 Encerrar: Finaliza o programa.
 
+
 **Tecnologias Utilizadas**
 
 Python 3.x: Linguagem de programação utilizada para o desenvolvimento do sistema.
@@ -40,11 +42,13 @@ SQLite: Banco de dados relacional utilizado para armazenar informações de alun
 
 MongoDB: Banco de dados NoSQL utilizado para armazenar os logs das operações do sistema.
 
+
 **Bibliotecas**:
 
 sqlite3: Usada para manipular o banco de dados SQLite.
 
 pymongo: Utilizada para conectar e manipular o banco de dados MongoDB.
+
 
 **Estrutura de Pastas**
 
