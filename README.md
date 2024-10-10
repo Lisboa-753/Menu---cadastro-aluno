@@ -1,5 +1,6 @@
 **Sistema de Gerenciamento Acadêmico em Python**
-Este projeto foi desenvolvido em Python com o objetivo de criar um menu interativo para gerenciar informações de alunos e disciplinas em um banco de dados SQL e MongoDB (NoSQL). O sistema oferece diversas funcionalidades para cadastrar, consultar, alterar e remover alunos e disciplinas, além de permitir a vinculação entre eles. Ele também registra logs de operações no MongoDB, facilitando o acompanhamento das atividades realizadas.
+
+  Este projeto foi desenvolvido em Python com o objetivo de criar um menu interativo para gerenciar informações de alunos e disciplinas em um banco de dados SQL e MongoDB (NoSQL). O sistema oferece diversas funcionalidades para cadastrar, consultar, alterar e remover alunos e disciplinas, além de permitir a vinculação entre eles. Ele também registra logs de operações no MongoDB, facilitando o acompanhamento das atividades realizadas.
 
 **Funcionalidades**
 O sistema possui um menu interativo que permite as seguintes operações:
